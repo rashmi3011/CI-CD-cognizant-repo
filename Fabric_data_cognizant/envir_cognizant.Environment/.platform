@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "envir_cognizant",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "77a5c8bf-2f30-8fcd-4534-a0eda589c7e5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "first_report_cognizant"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f64c7c0f-8343-b54b-4d17-b76341edd84f"
+  }
+}
